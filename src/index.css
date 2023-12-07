@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li:hover{
+    cursor:pointer; 
+    scale: 110%;
+    border-bottom: 2px solid #e74c3c;
+};
+span:hover{
+    scale: 10%;
+    color:#e74c3c;
+}
+
+body{
+    overflow: hidden;
+}
