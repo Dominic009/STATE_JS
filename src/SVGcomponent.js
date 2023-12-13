@@ -11,3 +11,5 @@ return (
 };
 
 export default SVGcomponent ;
+
+//wrapped
