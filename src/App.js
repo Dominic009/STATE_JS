@@ -95,7 +95,6 @@ function App() {
 
       <h2 className=' mt-20 font-extrabold font-Sato text-3xl text-[#474747] text-center'>What we do..?</h2>
 
-          My name is pranto
       <div className=' h-[300px] items'>
          
       </div>
